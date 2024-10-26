@@ -4,7 +4,7 @@ from cognite_data_reader import CogniteDataReader
 
 TENANT_ID = "48d5043c-cf70-4c49-881c-c638f5796997"
 CLIENT_ID = "1b90ede3-271e-401b-81a0-a4d52bea3273"
-CLIENT_SECRET = "svQ8Q~FONdaBp~CPHoo3SE_~Wibi7ReXebII2a5X"
+CLIENT_SECRET = "secret-change-me"
 CDF_CLUSTER = "api"
 COGNITE_PROJECT = "publicdata"
 
